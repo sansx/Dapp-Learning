@@ -4,7 +4,6 @@
 
 ## basic
 
-* [Summary‌](basic/README.md)
 * [01-web3js-deploy](basic/01-web3js-deploy/README.md)
 * [02-web3js-transaction](basic/02-web3js-transaction/README.md)
 * [03-web3js-erc20](basic/03-web3js-erc20/README.md)
