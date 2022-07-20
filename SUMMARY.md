@@ -1,4 +1,4 @@
-# Summary‌
+# Table of contents
 
 * [Introduce](README.md)
 
@@ -21,7 +21,7 @@
 * [12-token-crowdfund](basic/12-token-crowdfund/README.md)
   * [frontend](basic/12-token-crowdfund/frontend/README.md)
 * [13-decentralized-exchange](basic/13-decentralized-exchange/README.md)
-  * [EtherDelta](basic/13-decentralized-exchange/etherdelta/README.md)
+  * [EtherDelta](basic/13-decentralized-exchange/etherdelta.md)
   * [Programming DeFi: Uniswap](basic/13-decentralized-exchange/uniswap-v1-like/README.md)
 * [14-chainlink-price-feed](basic/14-chainlink-price-feed/README.md)
 * [15-nft-blindbox-chainlink-vrf](basic/15-nft-blindbox-chainlink-vrf/README.md)
